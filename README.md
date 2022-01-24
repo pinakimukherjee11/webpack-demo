@@ -1,4 +1,2 @@
 # webpack-demo
-
-Sample webpack learning repository. 
-#Webpack merge example added.
+Sample webpack learning repository for learning.
